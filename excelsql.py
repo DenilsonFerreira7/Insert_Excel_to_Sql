@@ -1,7 +1,6 @@
 import pandas as pd
 from unidecode import unidecode
 
-
 excel_file = 'C:/Users/Denilson Stratus tel/Downloads/AlunosPreMatriculados_Ricardo.xlsx'
 df = pd.read_excel(excel_file)
 
